@@ -1,0 +1,11 @@
+# Train/val/test sets as 1) dir: path/to/imgs
+
+# path: ../datasets # data set root dir
+train: ../train/ #train images
+val: ../val/ # val images
+test: # test images, optional
+
+#classes
+names:
+  0:
+  1:
